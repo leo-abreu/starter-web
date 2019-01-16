@@ -5,7 +5,8 @@
 
     Leo Abreu
     leo.abreu017@gmail.com
-    labreu
+    labreu, DevOps Engineer
+    
 
 # THANKS
 
@@ -14,5 +15,6 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
+
     jQuery, Modernizr
     Machine Learning, AWS, Google Cloud
