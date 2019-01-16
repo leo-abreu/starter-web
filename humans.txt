@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- Leo Abreu -- <twitter>
+    Leo Abreu
+    leo.abreu017@gmail.com
+    labreu
 
 # THANKS
 
