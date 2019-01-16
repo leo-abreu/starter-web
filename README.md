@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 
 ##GIT & GITHub Training
 This Training course could use some work
+Adding GIT Rebase Lectures in GIT Advance part.
 
 ## Contribution
 For the Repo and raise pull request for review
