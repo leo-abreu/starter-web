@@ -5,7 +5,8 @@
 
     Leo Abreu
     leo.abreu017@gmail.com
-    labreu
+    labreu, DevOps Engineer
+    
 
 # THANKS
 
@@ -15,3 +16,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+    Docker, Java Programming
