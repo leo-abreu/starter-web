@@ -28,3 +28,5 @@ Hi.  Going to insert conflicts in my feature branch
 
     jQuery, Modernizr
     Machine Learning, AWS, Google Cloud
+    AWS Solution Architect
+    
