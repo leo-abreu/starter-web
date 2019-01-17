@@ -18,6 +18,7 @@ For the Repo and raise pull request for review
 
 ## GIT Comparisons
 Adding GIT Comparisons Lecture
+Adding new Lecutres of Stash
 
 ## GITHub Content
 Comparison with Repo
